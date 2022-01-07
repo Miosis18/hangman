@@ -24,9 +24,9 @@ This is an example of how to run the script once you have downloaded it.
   
 * Run the program
   * Windows
-    ```sh
-    python hangman.py
-    ```
+  ```sh
+  python hangman.py
+  ```
   
   * Linux
   ```sh
