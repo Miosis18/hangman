@@ -22,12 +22,13 @@ This is an example of how to run the script once you have downloaded it.
   cd hangman_game
   ```
   
-* Run the program (Windows)
-  ```sh
-  python hangman.py
-  ```
+* Run the program
+  * Windows
+    ```sh
+    python hangman.py
+    ```
   
-  * Run the program (Linux)
+  * Linux
   ```sh
   python3 hangman.py
   ```
