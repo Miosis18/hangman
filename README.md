@@ -47,5 +47,5 @@ Distributed under the GNUv3 License. See `LICENSE.txt` for more information.
 
 Elliot - Miosis#0010
 
-Project Link: [https://github.com/Miosis18/shmake/](https://github.com/Miosis18/shmake/)
+Project Link: https://github.com/Miosis18/hangman](https://github.com/Miosis18/hangman)
 
